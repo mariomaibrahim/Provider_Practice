@@ -1,17 +1,25 @@
-# provider
+# Provider Practice
 
-A new Flutter project.
+This repository contains my practice while learning **Provider** for state management in Flutter.
 
-## Getting Started
+## Topics Covered
 
-This project is a starting point for a Flutter application.
+- State Management
+- Provider
+- ChangeNotifier
+- ChangeNotifierProvider
+- MultiProvider
+- Consumer
+- context.read()
+- context.watch()
+- notifyListeners()
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Provider
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Purpose
+
+Practice the fundamentals of Provider and apply state management concepts through simple Flutter examples.
